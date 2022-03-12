@@ -1,0 +1,11 @@
+//to create database named zoho
+create database zoho;
+
+//to use zoho database
+use zoho;
+
+//create table named signin
+create table signin(email varchar(30), password varchar(30));
+
+//create table named contact
+create table contact(email varchar(30), name varchar(30), phone varchar(10), c_email varchar(30));
