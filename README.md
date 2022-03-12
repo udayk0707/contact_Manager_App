@@ -1,4 +1,4 @@
-1. Using Wampserver64 or any other suitable mysql server, create database from file named "database".
+1. Using Wampserver64 or any other suitable mysql server, to create database from file named "database".
 
 2. Add two libraries named "r2xml", "MYSQL JDBC DRIVER" in project properties.
 
